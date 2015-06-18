@@ -1,0 +1,61 @@
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\tal\Documents\Visual Studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Elad\Downloads\WebApplicationTal\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
